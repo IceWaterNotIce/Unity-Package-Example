@@ -8,9 +8,8 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
- },
- "keywords": [
+  "dependencies": {},
+  "keywords": [
     "keyword1",
     "keyword2",
     "keyword3"
@@ -19,6 +18,12 @@
     "name": "icewaternotice",
     "email": "icewaternotice@gmail.com",
     "url": "https://www.icewaternotice.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Basic usage example",
+      "path": "Samples/ExampleScene1"
+    }
+  ]
 }
-
